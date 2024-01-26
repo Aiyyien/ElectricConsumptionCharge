@@ -66,8 +66,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   <title>Electricity Charge Calculator</title>
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
-  <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
-  <link type="text/css" rel="stylesheet" href="css/style.css" />
+  <link type="text/css" rel="stylesheet" href="bootstrap.min.css" />
+  <link type="text/css" rel="stylesheet" href="style.css" />
 
    <style>
         .form-header 
